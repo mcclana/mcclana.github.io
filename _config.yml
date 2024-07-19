@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://static.wikia.nocookie.net/animals-are-cool/images/e/e1/1439627379_55cef9cb06ece.jpg/revision/latest?cb=20180407215224"
+avatar: "https://christensen8fwgraham.github.io/1439627379_55cef9cb06ece.webp"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
