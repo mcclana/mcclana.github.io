@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 쇼핑왕차장 # the main title
+title: 쇼핑왕미스터 # the main title
 
 tagline: 쇼핑왕정보, 제품정보 # it will display as the sub-title
 
@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
   즐거운쇼핑라이프, 최신정보, 가격정보
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url:  "https://lorenzogill.github.io"
+url:  "https://katiafoust.github.io"
 
 github:
   username:  # change to your github username
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://lorenzogill.github.io/images.png"
+avatar: "https://katiafoust.github.io/images2.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
